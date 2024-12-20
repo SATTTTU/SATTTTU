@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Flutter,Laravel,React,Nextjs**
+- 💬 Ask me about **Flutter,Laravel,React,Nextjs,.NET**
 
 - 📫 How to reach me **timalsinasatish430@gmail.com**
 
