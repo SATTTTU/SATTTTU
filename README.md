@@ -85,9 +85,7 @@
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SATTTTU&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
+
 
 ---
 
