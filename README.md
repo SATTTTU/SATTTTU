@@ -22,12 +22,7 @@ ORM/Query:      Prisma, Dapper
 Tools:          Docker, Git, VS Code, Visual Studio, DBeaver, Prettier, Figma
 ```
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SATTTTU&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATTTTU&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&hide=jupyter%20notebook,hack" />
-</div>
 
 ## 🔗 Connect
 
