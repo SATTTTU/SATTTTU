@@ -14,14 +14,15 @@ Full Stack Developer passionate about creating impactful web applications. Curre
 
 ```text
 Languages:      Python, JavaScript, TypeScript, C#
-Frontend:       React, Next.js, Three.js
-Backend:        .NET, Laravel, Django, Node.js, Flask, ABP Framework
+Frontend:       React, Next.js,Angular, Three.js
+Backend:        .NET, Django, Node.js, Flask, ABP Framework
 Data & ML:      TensorFlow, NumPy, Matplotlib
 Messaging & Communication:   RabbitMQ, gRPC
 Caching:         Redis
 Databases:      PostgreSQL, MongoDB, MySQL
 ORM/Query:      Prisma, Dapper
-Tools:          Docker, Git, VS Code, Visual Studio, DBeaver, Prettier, Figma
+Devops & Infra: Docker,Jenkins,Portainer
+Tools:           Git, VS Code, Visual Studio, DBeaver, Prettier, Figma
 ```
 
 
