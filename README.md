@@ -20,7 +20,7 @@ Data & ML:      TensorFlow, NumPy, Matplotlib
 Messaging & Communication:   RabbitMQ, gRPC
 Caching:         Redis
 Databases:      PostgreSQL, MongoDB, MySQL
-ORM/Query:      Prisma, Dapper
+ORM/Query:      Prisma, Dapper, Entity FrameWork
 Devops & Infra: Docker,Jenkins,Portainer
 Tools:           Git, VS Code, Visual Studio, DBeaver, Prettier, Figma
 ```
